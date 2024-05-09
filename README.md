@@ -3,6 +3,8 @@ This is just a fun project where we can upload our pictures and apply various fi
 
 **Prerequisites:** Basic understanding of HTML, CSS, and JavaScript is helpful.
 
+<hr/>
+
 ## Technical Details
 FilterFun leverages these technologies:
 - HTML: Provides the web page's structure and content.
