@@ -23,7 +23,7 @@ FilterFun offers a user-friendly interface for image uploads and filter applicat
 ### [Live Demo](https://filter-fun-canvas.vercel.app/) on Vercel
 
 <p align="center">
-  <img src="./example.png" width="100%" height="auto" />
+  <img src="./img/example.png" width="100%" height="auto" />
 </p>
 
 ## Customization
