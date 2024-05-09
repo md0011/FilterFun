@@ -1,8 +1,7 @@
 # FilterFun - Playful Image Filtering Project
 This is just a fun project where we can upload our pictures and apply various filters to it.
 
-## Prerequisites: 
-Basic understanding of HTML, CSS, and JavaScript is helpful.
+**Prerequisites:** Basic understanding of HTML, CSS, and JavaScript is helpful.
 
 ## Technical Details
 FilterFun leverages these technologies:
